@@ -1,0 +1,24 @@
+_repo: Simon-Bolivar-The-Liberator-Patriot-Warrior-Statesman-Father-of-Five-Nations-a-Sketch-of-His-L__8928
+creator:
+  author:
+    agent_name: Sherwell, Guillermo A. (Guillermo Antonio)
+    birthdate: 1878
+    deathdate: 1926
+    gutenberg_agent_id: '2933'
+    url: http://www.gutenberg.org/2009/agents/2933
+description: ''
+gutenberg_issued: '2005-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8928'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'South America -- History -- Wars of Independence, 1806-1830'
+- !lcc 'F2201'
+- !lcsh 'Bolívar, Simón, 1783-1830'
+title: "Simón Bolívar (The Liberator)\r\nPatriot, Warrior, Statesman, Father of Five\
+  \ Nations, a Sketch of His Life and His Work"
+url: http://www.gutenberg.org/ebooks/8928
